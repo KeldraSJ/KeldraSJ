@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Keldra
-- 👩🏾‍🎓 I’m currently learning Ruby
-- 👩🏾‍💻 I’m looking to collaborate on projects using Ruby
 - 📧 How to reach me keldraSJ@gmail.com
